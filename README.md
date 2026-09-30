@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, ich bin Sarah 👋
 
-<!--
-**saryswn/saryswn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. Angewandte Informatik an der HTW Berlin (4. Fachsemester).
 
-Here are some ideas to get you started:
+## Womit ich arbeite
+- **Sprachen:** Java, Kotlin, SQL, Bash
+- **Schwerpunkte:** Softwareentwicklung, Datenbanken & Datenmodellierung, Android-Entwicklung
+- **Tools:** Git/GitHub, Android Studio, IntelliJ IDEA, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekte
+- 🐙 [**Takopi**](https://github.com/saryswn/Takopi) – Android-App (Kotlin, MVVM, Room) gegen Handysucht, mit Schrittzähler
+- ☕ [**belegProg3**](https://github.com/saryswn/belegProg3) – Java-Projekt mit sechs Prototypen (Geschäftslogik, CLI, Simulation, GUI, I/O, Netzwerk), 214 Tests mit 100 % Coverage
+
+## Kontakt
+📫 sususarah215@gmail.com
