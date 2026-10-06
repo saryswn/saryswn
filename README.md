@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="540" height="231" alt="gif" src="https://github.com/user-attachments/assets/df138bd8-ae34-4820-a43c-8416dc8a9f18" />
@@ -56,6 +57,10 @@ Stack
 📍 Berlin · 💬 Deutsch / Arabisch / English (C1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-abdul-al-aa81ab384/)
+<div align="center">
+<img width="500" height="280" alt="AjA6" src="https://github.com/user-attachments/assets/e21dc27d-a716-4e75-a90f-f345f4e624b4" />
+
+
 
 
 </div>
