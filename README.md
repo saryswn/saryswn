@@ -6,7 +6,7 @@
 <!-- Alte Verlauf-Variante zum Zurückwechseln: -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:cc2b5e&height=180&section=header" width="100%"/> -->
 
-# SARAH ABDUL-AL
+# 𓏲 ๋࣭ ࣪ ˖🎐 SARAH ABDUL-AL
 
 **B.Sc. Angewandte Informatik · HTW Berlin — Softwareentwicklung**
 
